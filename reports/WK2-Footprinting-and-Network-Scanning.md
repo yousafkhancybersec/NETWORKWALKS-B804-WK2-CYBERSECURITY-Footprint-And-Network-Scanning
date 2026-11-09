@@ -33,7 +33,7 @@ The supplied report states that permission was secured for the target activity. 
 The supplied practical report records the following observations from the six Kali Linux tools:
 
 1. **WHOIS:** Public domain registration information and name-server details were reviewed.
-2. **WhatWeb:** The report records WordPress 7.0.4 and WP Download Manager 3.3.58 among the identified technologies.
+2. **WhatWeb:** The report records WordPress 7.1.4 and WP Download Manager 3.3.76 among the identified technologies.
 3. **Nslookup:** The report records the public IP address `192.232.216.135` for the domain.
 4. **Curl:** HTTP response headers were inspected; the report notes the WordPress REST API endpoint `/wp-json/`.
 5. **Wafw00f:** The report records detection of ModSecurity (SpiderLabs).
