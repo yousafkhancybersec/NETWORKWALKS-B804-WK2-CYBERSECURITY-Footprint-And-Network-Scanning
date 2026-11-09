@@ -20,7 +20,7 @@ The activities demonstrate how public domain information and authorized host-dis
 
 ## Key observations recorded in the supplied practical
 
-- WhatWeb identified WordPress 7.0.4 and WP Download Manager 3.3.58.
+- WhatWeb identified WordPress 7.1.4 and WP Download Manager 3.3.76.
 - Nslookup returned the public address 192.232.216.135 for the target domain.
 - Curl inspection showed HTTP response headers and the `/wp-json/` endpoint.
 - Wafw00f identified ModSecurity (SpiderLabs).
